@@ -13,14 +13,127 @@ date = "2017-01-29T23:42:55-08:00"
 Below is a table with the schedule for the  BCData Colloquium. Note that titles and abstracts in the bottom-most table correspond to the first table via "Talk Number". 
 
 
-|Talk Number | Date      | Location | Speaker                     | Affiliation         | 
-|------------|-----------|----------|-----------------------------|---------------------|
-| 1          | Wed 1 Feb | ESB 5104 | Soyean Kim and Jeff Coleman | BC Safety Authority |
+<table style="width:100%">
+  <tr>
+    <th>
+      Talk Number
+    </th>
+    <th>
+      Date
+    </th>
+    <th>
+      Location
+    </th>
+    <th>
+      Speaker
+    </th>
+    <th>
+      Affiliation
+    </th>
+  </tr>
+  <tr>
+    <td>
+      1
+    </td>
+    <td>
+      Wed 1 Feb 15:00
+    </td>
+    <td>
+      ESB 5104
+    </td>
+    <td>
+      Soyean Kim and Jeff Coleman
+    </td>
+    <td>
+      BC Safety Authority
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2
+    </td>
+    <td>
+      Wed 1 Mar 15:00
+    </td>
+    <td>
+      TBD
+    </td>
+    <td>
+      Roger Donaldson
+    </td>
+    <td>
+      Midvale Applied Mathematics, UBC Mathematics
+    </td>
+  </tr>
+</table>
 
-| Talk Number | Title       | Abstract   |
-|---------|-----------------|------------|
-| 1 | A risk-based platform for accident prevention strategies | BC Safety Authority’s accident prevention strategy follows a risk based platform, called “bow tie” for ongoing management and prevention of major incidents. The bow tie method draws on the direct experience of safety management team and the data collected from various safety oversight programs in order to identify hazards and to properly incorporate critical controls into management systems. In addition, it raises awareness and improves understanding and risk knowledge of the potential major incidents and the reliance on critical controls that prevent those accidents from occurring.  Opportunities exist for greater connectivity among various databases to maximize the risk knowledge, especially the pre incident data based on inspections and post incident data. |
-| 2 | | | 
+
+<table>
+  <tr>
+    <th>
+      Talk Number
+    </th>
+    <th>
+      Title
+    </th>
+    <th>
+      Abstract
+    </th>
+  </tr>
+  <tr>
+    <td>
+      1
+    </td>
+    <td>
+      A risk-based platform for accident prevention strategies
+    </td>
+    <td>
+      BC Safety Authority’s accident prevention strategy follows a risk based
+      platform, called “bow tie” for ongoing management and prevention of major
+      incidents. The bow tie method draws on the direct experience of safety
+      management team and the data collected from various safety oversight
+      programs in order to identify hazards and to properly incorporate
+      critical controls into management systems. In addition, it raises
+      awareness and improves understanding and risk knowledge of the potential
+      major incidents and the reliance on critical controls that prevent those
+      accidents from occurring.  Opportunities exist for greater connectivity
+      among various databases to maximize the risk knowledge, especially the
+      pre incident data based on inspections and post incident data.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2
+    </td>
+    <td>
+      The Promising Future of Mathematics in Industry
+    </td>
+    <td>
+      <p>
+	The diversity of mathematics and roles of mathematicians in industry
+	has expanded greatly over the last decade.   The first part of this
+	talk is a survey of work that I have done as an applied mathematician
+	working in industry.  Areas include modeling groundwater flow for soil
+	remediation, image editing, content-based image search, and machine
+	learning for searching large satellite images.
+      </p>
+      <p>
+	The second part of this talk will focus on a particular use of
+	mathematics in indexing high dimensional floating-point vectors using a
+	search engine intended for text.  The result is a database search
+	method that can combine "fuzzy" data, such as image textures or audio
+	recordings, with text-based data such as document titles or descriptive
+	keywords in an infrastructure easy for a software engineer to build and
+	maintain.
+      </p>
+      <p>
+	The ultimate purpose of this talk is to highlight areas of mathematics
+	of particular use to my work in industry, and hence of particular
+	interest to future industrial practitioners.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Organizers and sponsors
 Organizers include (but are not limited to): the Institute of Applied Mathematics; PIMS; the Mathematics of Information group at UBC.
