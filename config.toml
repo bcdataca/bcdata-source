@@ -13,7 +13,7 @@ theme = "hugo-hikari-theme"
 [params]
 	name = "bcdata.ca"
 	description = "Data talks linking industry and the academy."
-	copyright = "2017 bcdata.ca -- All Rights Reserved."
+	copyright = "&copy; 2017 bcdata.ca -- All Rights Reserved."
 
 	# Custom assets can be linked with their paths relative to static/
 	custom_css = []
@@ -30,7 +30,7 @@ theme = "hugo-hikari-theme"
 	# Menu items
 	title = "bcdata colloquium"
 	bio = "Data talks linking industry and the academy."
-	subscribe = "Subscribe"
+	subscribe = "Links"
 	# followme = "Follow me on"
 
 	# Enable Google search
@@ -39,7 +39,11 @@ theme = "hugo-hikari-theme"
 
 	[[params.offcanvas.socialnetworks]]
 		name = "Github"
-		url = "//github.com/pimsmath/"
+		url = "//github.com/bcdataca"
+
+	[[params.offcanvas.socialnetworks]]
+		name = "IAM Workshop"
+		url = "//workshop.bcdata.ca"
 
 	# [[params.offcanvas.socialnetworks]]
 	#	name = "Twitter"
