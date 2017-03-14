@@ -1,2 +1,4 @@
 .DS*Store
 public/
+themes/hugo-hikari-theme
+themes/*
