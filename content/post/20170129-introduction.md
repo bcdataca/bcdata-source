@@ -55,6 +55,20 @@ Below is a table with the schedule for the  BCData Colloquium. Note that titles 
     <td style="padding:15px">
       Roger Donaldson <br />(Midvale Applied Mathematics,<br />UBC Mathematics)
     </td>
+</tr>
+<tr>
+    <td>
+      3
+    </td>
+    <td>
+      Wed 5 Apr 15:00
+    </td>
+    <td>
+      TBA
+    </td>
+    <td style="padding:15px">
+      Richard Lockhart <br />(SFU)
+    </td>
   </tr>
 </table>
 
@@ -94,6 +108,11 @@ The ultimate purpose of this talk is to highlight areas of mathematics of
 particular use to my work in industry, and hence of particular interest to
 future industrial practitioners.
 </p>
+
+### High dimensional statistical inference
+#### Speaker: Richard Lockhart
+
+<p>Abstract coming soon!</p>
 
 ## Organization and sponsorship
 Organizers include the Institute of Applied
