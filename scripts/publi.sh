@@ -29,5 +29,5 @@ if [[ "$doPushToRemote" == "y" ]]
 then
     echo "Pushing to remote..."
     read -erp "Commit Message: " commitMessage
-    cd ../bcdata-deployed && git add --all && git commit -m $commitMessage && git push origin gh-pages
+    cd ../bcdata-deployed && git add --all && git commit -m "$commitMessage" && git push origin gh-pages
 fi
