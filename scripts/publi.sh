@@ -18,3 +18,8 @@ hugo
 
 cp CNAME ./public/
 cp -r favi/* ./public/
+
+
+mv ./public/* ../bcdata-deployed/
+cd ../bcdata-deployed/
+git push origin gh-pages
