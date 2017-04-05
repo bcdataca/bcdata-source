@@ -19,7 +19,15 @@ hugo
 cp CNAME ./public/
 cp -r favi/* ./public/
 
-
+shopt -s extglob
+rm -rf ../bcdata-deployed/!(.git)
 mv ./public/* ../bcdata-deployed/
-cd ../bcdata-deployed/
-git push origin gh-pages
+
+read -erp "Push gh-pages to origin? (y/n): " doPushToRemote
+
+if [[ "$doPushToRemote" == "y" ]]
+then
+    echo "Pushing to remote..."
+    read -erp "Commit Message: " commitMessage
+    cd ../bcdata-deployed && git add --all && git commit -m $commitMessage && git push origin gh-pages
+fi
