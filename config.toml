@@ -45,6 +45,10 @@ theme = "hugo-hikari-theme"
 		name = "IAM Workshop"
 		url = "//workshop.bcdata.ca"
 
+	[[params.offcanvas.socialnetworks]]
+		name = "e-mail"
+		url = "mailto:iam-workshop2017@lists.ubc.ca"
+
 	# [[params.offcanvas.socialnetworks]]
 	#	name = "Twitter"
 	#	url = "//twitter.com/pimsmath"
