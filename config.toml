@@ -1,4 +1,7 @@
-baseurl = "http://bcdata.ca/"
+baseurl = "http://bcdata.ca/2017"
+relativeurls=false
+canonifyurls=false
+
 languageCode = "en-us"
 title = "bcdata colloquium"
 # Enable comments by entering your Disqus shortname
