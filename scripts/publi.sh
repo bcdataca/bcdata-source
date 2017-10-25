@@ -14,7 +14,7 @@ echo "Deleting old publication"
 rm -rf public
 
 echo "Generating site"
-hugo
+hugo -d public/2016
 
 cp CNAME ./public/
 cp -r favi/* ./public/
