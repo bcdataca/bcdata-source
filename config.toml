@@ -1,4 +1,4 @@
-baseurl = "http://bcdata.ca/2017"
+baseurl = "http://bcdata.ca/2017/"
 relativeurls=false
 canonifyurls=false
 
